@@ -1,0 +1,5 @@
+body{
+    color: deeppink; /* cambia de color al texto */
+    text-align: center; /* Esto es para centrar el texto */
+    font-family: "Arial"; /* Esto lo convierte en Arial al texto*/
+}
